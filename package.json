@@ -1,0 +1,22 @@
+{
+  "name": "r8s",
+  "version": "1.0.0",
+  "description": "Reaction Commerce for Kubernetes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/R8S/r8s.git"
+  },
+  "keywords": [
+    "r8s"
+  ],
+  "author": "Joshua Edward McLaughlin Cox",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/R8S/r8s/issues"
+  },
+  "homepage": "https://github.com/R8S/r8s#readme"
+}
